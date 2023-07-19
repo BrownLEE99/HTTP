@@ -103,9 +103,9 @@ URI(URL,URN) : 식별할 때 위치로 식별, 이름으로 식별
 * TCP/IP 연결을 새로 맺어야 한다(3-way)
 * 웹 브라우저로 사이트를 요청하면 HTML 뿐만 아니라 수 많은 자원이 함께 다운로드 된다
 * 지금은 HTTP 지속 연결(Persistent Connections)로 문제를 해결한다
-[image:A2B8CC30-4B50-4D61-9BDD-BE815D0BF454-632-000000F852D160BC/216A28A7-8064-439F-B794-CC169D5A98D1.png]
+![216A28A7-8064-439F-B794-CC169D5A98D1](https://github.com/BrownLEE99/HTTP/assets/137032025/c087d546-a11c-4700-ba7b-d92a6ffa31f8)
 초기
-[image:B771F1C9-19F1-4DC2-9D86-A2B04DA26D9A-632-000000F875DDB6D1/623F562D-40CB-4CAB-BDE7-21A504358E15.png]
+![623F562D-40CB-4CAB-BDE7-21A504358E15](https://github.com/BrownLEE99/HTTP/assets/137032025/a5ed7dbb-c27b-4610-9905-f3b840828307)
 HTTP 지속 연결
 
 > 첫 페이지에 트래픽이 너무 쏠린다
